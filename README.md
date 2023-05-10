@@ -1,2 +1,7 @@
-# TCG-Wallet-Inspector
-Scan your wallets to create a list of NFTs with their ChiaTCG attributes
+# TCG Wallet Inspector
+
+**powered with the MintGarden API**
+
+Scan your wallets to create a list of NFTs with their ChaiTCG attributes.
+
+
